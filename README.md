@@ -1,8 +1,6 @@
 # Trader-Sentiment-Analysis
 A data-driven analysis exploring how market sentiment (Fear vs Greed) influences trader performance, behavior, and risk-taking, with actionable insights and strategy recommendations.
 
----
-
 ## SUMMARY
 
 ### Insight 1: Win Rate vs Sentiment
@@ -18,20 +16,15 @@ A data-driven analysis exploring how market sentiment (Fear vs Greed) influences
 - Frequent traders take larger positions (~5800 USD) and are more aggressive.
 - Infrequent traders (~4393 USD) are more conservative.
 
----
-
 ## DISCIPLINED RISK MANAGEMENT
 - Traders should balance opportunities in volatile markets with consistency in trending markets.
 - Maintaining disciplined risk management is critical for long-term success.
-
----
 
 ## CONCLUSION
 - Market sentiment plays a critical role in shaping trader behavior and performance.
 - Extreme Greed conditions provide higher win rates and more predictable trends.
 - Extreme Fear conditions offer higher profit potential due to increased volatility.
 - **Recommendation:** Adopt a dynamic strategy—opportunity-driven in volatile markets, consistency-focused in trending markets, and always maintain disciplined risk management.
-
 ## Tech Stack
 - Python – data processing and analysis
 - Pandas / NumPy – data manipulation
